@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-  cout << "这个段落隔断符怎么是2两空格，看着真难受"；
+  cout << "这个制表符怎么是2两空格，看着真难受"；
 }
 
 ```
